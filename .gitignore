@@ -1,0 +1,24 @@
+# Arquivos e diretórios específicos a serem ignorados
+
+# Arquivos de configuração do Visual Studio
+.vs/
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Dependências instaladas pelo npm (node_modules)
+node_modules/
+
+# Arquivo de configuração do usuário do projeto (exemplo específico)
+Conversify.njsproj.user
+
+# Arquivo de log do npm
+npm-debug.log
+
+# Arquivos de build
+dist/
+out/
+
+# Arquivos de configuração específicos do seu ambiente (exemplos abaixo)
+# config/env.json
+# .env
