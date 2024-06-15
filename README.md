@@ -2,9 +2,9 @@
 
 ![Venha conhecer o projeto Conversify Chatbot.](30a654cf-15ac-4932-9e9f-835b0eeac5d5.jpeg)
 
-## Resolvi criar esse chatbot bem simples na versão JavaScript.
+### Resolvi criar esse chatbot bem simples na versão JavaScript.
 
-## Este é um projeto de um chatbot simples desenvolvido com Node.js utilizando o framework Express e a linguagem de template EJS.
+### Este é um projeto de um chatbot simples desenvolvido com Node.js utilizando o framework Express e a linguagem de template EJS.
 
 # Tecnologias Utilizadas
 
@@ -28,7 +28,7 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/conversify.git
+   git clone https://github.com/lgomesroc/conversify.git
    cd conversify
 
 2. Instale as dependências:
@@ -75,3 +75,5 @@ Agradeço antecipadamente por suas contribuições e terá atualização com cri
 ## Estrelas
 
 Peço encarecidamente, se puder, dar estrela para que o projeto fique em destaque e mostre as outras pessoas.
+
+## E aí? Aceita um café?
